@@ -20,6 +20,10 @@ function removeShortTab() {
                         guideEntries[i].remove();
                     }
                 }
+                var iconEntry = document.querySelector('a[title="Shorts"]')
+                if (iconEntry) {
+                    iconEntry.remove()
+                }
             }
         });
     });
