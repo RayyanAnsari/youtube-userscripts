@@ -5,7 +5,7 @@
 // @author       Rayyan Ansari
 // @description  Removes Youtube Shorts sidebar button, and redirects to normal video page to bypass Shorts UI
 // @match        *://*.youtube.com/*
-// @icon         anti-youtube-shorts.png
+// @icon         https://raw.githubusercontent.com/RayyanAnsari/youtube-userscripts/master/anti-youtube-shorts/anti-youtube-shorts.png
 // @grant        none
 // @license      MIT
 // ==/UserScript==
